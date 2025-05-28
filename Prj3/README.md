@@ -4,7 +4,7 @@
 
 1. ``Makefile`` - A build script that compiles all C source files into executables.
 
-2. ``report.pdf`` - The project specification document that outlines objectives, requirements, implementation steps, and testing procedures.
+2. ``prj3_report.pdf`` - The project specification document that outlines objectives, requirements, implementation steps, and testing procedures.
 
 3. **disk/**
    1. **include/**
