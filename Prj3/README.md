@@ -39,7 +39,7 @@ make
 ```
 This will generate all executable files in the `Prj3` directory.
 
-## How to test
+## How to Test
 Enter directory `disk` or `fs` and then run the following command:
 ```sh
 make test
