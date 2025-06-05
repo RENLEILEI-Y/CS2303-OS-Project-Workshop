@@ -1,4 +1,4 @@
-# SJTU Operating System Course Design
+# SJTU Project Workshop of Operating System
 
 # Cource information
 1. **Course code** - CS2303
