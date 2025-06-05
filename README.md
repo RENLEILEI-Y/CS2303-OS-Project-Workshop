@@ -1,6 +1,6 @@
 # SJTU Project Workshop of Operating System
 
-# Cource information
+# Cource Information
 1. **Course code** - CS2303
 2. **Semester Offered** - Spring 2024–2025
 3. **Instructor** - Prof. Shengzhong Liu
